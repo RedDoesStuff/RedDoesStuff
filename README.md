@@ -5,4 +5,4 @@
 > [!NOTE]
 > This is goku say hi to goku
 >
-> ![Goku :3 https://www.youtube.com/watch?v=M35xx37yllY](https://github.com/RedDoesStuff/RedDoesStuff/blob/main/png-transparent-goku-dragon-ball-xenoverse-2-majin-buu-vegeta-goku-thumbnail.png)
+> [![Goku :3](https://github.com/RedDoesStuff/RedDoesStuff/blob/main/png-transparent-goku-dragon-ball-xenoverse-2-majin-buu-vegeta-goku-thumbnail.png)](https://www.youtube.com/watch?v=M35xx37yllY)
