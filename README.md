@@ -3,8 +3,6 @@
 > Im going to fucking kill you
 
 ```haxe
-package;
-
 var stupid:You = new You('stupid');
 
 class You
