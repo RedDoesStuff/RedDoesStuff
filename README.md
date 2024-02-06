@@ -7,7 +7,7 @@ var stupid:You = new You('stupid');
 
 class You
 {
-    public function new(?whatareyou:String)
+    public function new(?whatareyou:String = 'not stupid')
     {
         trace(whatareyou);
     }
