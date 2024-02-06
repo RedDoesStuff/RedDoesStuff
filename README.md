@@ -4,4 +4,4 @@
 
 > [!NOTE]
 > This is goku say hi to goku
-> 
+> ![](https://github.com/RedDoesStuff/RedDoesStuff/blob/main/png-transparent-goku-dragon-ball-xenoverse-2-majin-buu-vegeta-goku-thumbnail.png)
