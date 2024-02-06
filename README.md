@@ -2,7 +2,21 @@
 > [!CAUTION]
 > Im going to fucking kill you
 
+```
+var stupid:You = new You('stupid');
+
+class You
+{
+    public function new(whatareyou:String)
+    {
+        trace(whatareyou);
+    }
+}
+```
+
 > [!NOTE]
-> This is goku say hi to goku
+> This is **goku** say hi to goku
 >
 > [![Goku :3](https://github.com/RedDoesStuff/RedDoesStuff/blob/main/png-transparent-goku-dragon-ball-xenoverse-2-majin-buu-vegeta-goku-thumbnail.png)](https://www.youtube.com/watch?v=M35xx37yllY)
+
+
