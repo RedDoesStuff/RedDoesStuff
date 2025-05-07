@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=30&pause=1000&color=F7F7F7&background=FFFFFF00&vCenter=true&random=false&width=435&lines=%3A3)](https://git.io/typing-svg)
 > [!CAUTION]
-> Im going to kill you
+> La Quan Tuah
 
 ```haxe
 var stupid:You = new You('stupid');
@@ -15,8 +14,8 @@ class You
 ```
 
 > [!NOTE]
-> This is **goku** say hi to goku
+> This is **Goku**
 >
-> [![Goku :3](https://github.com/RedDoesStuff/RedDoesStuff/blob/main/png-transparent-goku-dragon-ball-xenoverse-2-majin-buu-vegeta-goku-thumbnail.png)](https://www.youtube.com/watch?v=M35xx37yllY)
+> [![Goku](https://github.com/RedDoesStuff/RedDoesStuff/blob/main/png-transparent-goku-dragon-ball-xenoverse-2-majin-buu-vegeta-goku-thumbnail.png)](https://www.youtube.com/watch?v=M35xx37yllY)
 
 
